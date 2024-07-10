@@ -1,0 +1,28 @@
+.bar{
+    height: 100px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center}
+.a,.b,.c,.d{height: 40px;}
+.ahm{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 500px;}
+.me{
+    width: 250px;
+}
+ul{
+    list-style-type: circle;
+}
+
+a{
+    text-decoration: none;
+    transition: .7s;
+    font-size: 23px;
+    color: black;
+}
+
+a:hover{
+    font-size: 27px;
+}

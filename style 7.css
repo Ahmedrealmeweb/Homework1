@@ -1,0 +1,39 @@
+ul{
+    display: flex;
+    list-style-type: none;
+    justify-content: space-around;
+    background-color: black;
+    padding: 10px;
+}
+
+a{
+    text-decoration: none;
+    font-size: 25px;
+    color: whitesmoke;
+    transition: .5s;
+}
+
+a:hover{
+    color: blue;
+    font-size: 30px;
+}
+div{
+    display: flex;
+    justify-content: space-around;
+}
+img{
+    height: 40px;
+    width: 40px;
+    padding-right: 3px;
+    padding-top: 6px;
+}
+
+#C{
+    display: flex;
+    justify-content: space-around;
+}
+
+.h{
+    width: 350px;
+
+}
